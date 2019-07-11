@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29009.5
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Adapter_cats", "Adapter_cats.csproj", "{99BDEB8D-CED6-4458-B70F-2197768A2529}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{99BDEB8D-CED6-4458-B70F-2197768A2529}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99BDEB8D-CED6-4458-B70F-2197768A2529}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99BDEB8D-CED6-4458-B70F-2197768A2529}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99BDEB8D-CED6-4458-B70F-2197768A2529}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {79285781-FA80-4DF8-BC2B-18B2D737DBB7}
+	EndGlobalSection
+EndGlobal
